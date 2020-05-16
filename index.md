@@ -1,3 +1,2 @@
-# Web Host Jekyll
-## Laboratório
-Edit número um github Pages
+# Laboratório
+Edit número um do proj github Pages
